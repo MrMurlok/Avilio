@@ -114,8 +114,6 @@ body {
 	margin: 0 auto;
 }
 /* nav  */
-.top_nav {
-}
 .nav_flex {
 	display: flex;
 	padding: 17px 0;
@@ -151,7 +149,7 @@ body {
 /* nav  */
 /* header  */
 .top_header {
-	background-image: url(/img/background_1.jpg);
+	background-image: url(../img/background_1.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -185,8 +183,6 @@ body {
 }
 /* header  */
 /* works  */
-.works {
-}
 .works_block {
 	padding-left: 36px;
 }
@@ -333,8 +329,7 @@ body {
 }
 /* video  */
 /* product  */
-.product {
-}
+
 .product_flex {
 	padding-top: 120px;
 	display: flex;
@@ -408,8 +403,6 @@ body {
 	line-height: 157%;
 	margin-bottom: 16px;
 	padding-left: 4px;
-}
-.product_item-right {
 }
 .p_text-right {
 	font-style: normal;
